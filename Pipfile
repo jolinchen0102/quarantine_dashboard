@@ -6,9 +6,9 @@ name = "pypi"
 [packages]
 django = "~=4.0"
 requests = "*"
+gunicorn = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.9"
